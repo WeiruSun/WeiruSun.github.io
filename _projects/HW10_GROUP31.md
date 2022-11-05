@@ -75,5 +75,5 @@ The interactivity includes select interval and create the barplot based on the s
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/WeiruSun/WeiruSun.github.io/tree/main/python_notebooks/IS445 HW10 group 32.ipynb" text="The Analysis" %}
 </div>
