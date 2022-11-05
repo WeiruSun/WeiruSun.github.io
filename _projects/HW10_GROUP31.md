@@ -1,8 +1,8 @@
 ---
-name: Group31 homework 10
+name: Group32 homework 10
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/plot1.png
-description: Group31 homework 10
+description: Group32 homework 10
 custom_js:
   - vega.min
   - vega-lite.min
