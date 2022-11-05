@@ -12,12 +12,6 @@ custom_js:
 
 # Homework 10
 
-<div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The notebook link" %}
-</div>
-
-"C:\Users\amper\WeiruSun.github.io\python_notebooks\IS445 HW10 group 32.ipynb"
-
 ## plot1
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hw_10_plot1.json" style="width: 100%"></vegachart>
