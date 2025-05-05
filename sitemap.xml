@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://weirusun.github.io/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weirusun.github.io/experience/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weirusun.github.io/education/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://weirusun.github.io/posts/post-1/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/projects/project--1/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/skills/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/categories/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/posts/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/projects/</loc>
+  </url><url>
+    <loc>https://weirusun.github.io/tags/</loc>
+  </url>
+</urlset>
