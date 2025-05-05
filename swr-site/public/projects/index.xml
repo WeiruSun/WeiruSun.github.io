@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on ExampleSite</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.1</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/project--1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project--1/</guid>
+      <description>&lt;p&gt;Projects (项目) 页面 (content/projects/):&lt;/p&gt;
+&lt;p&gt;为每个重要项目创建一个独立的 Markdown 文件。
+在每个项目文件中，可以包含：
+项目名称: 简洁明了。
+项目简介: 概述项目目标和您的角色。
+技术栈: 列出项目使用的主要技术和工具。
+您的贡献: 详细描述您在项目中的具体工作、负责的模块、解决的问题以及取得的成果，尽量量化您的贡献。
+项目截图或链接: 如果方便，可以提供项目截图或在线 demo 的链接。
+项目分类: 可以使用 Hugo 的 taxonomy 功能，将项目按“技术项目”、“数据分析项目”、“产品项目”等进行分类，方便访问者浏览。&lt;/p&gt;
+&lt;p&gt;AI/Technology (AI 技术):&lt;/p&gt;
+&lt;p&gt;如果您有专门的 AI 项目，可以将其放在 Projects 页面中，并在项目描述中突出您在 AI 方面的贡献。
+如果您对 AI 技术有深入的理解或研究，可以在 About 页面中提及，或者在 Skills 页面中详细列出您了解的 AI 技术和算法。
+如果您计划写关于 AI 的博客，可以在 Posts 页面中展示。&lt;/p&gt;
+&lt;p&gt;项目和博客内容建议&lt;/p&gt;
+&lt;p&gt;根据您的简历内容和您希望展示的能力，以下是一些项目和博客主题的建议：&lt;/p&gt;
+&lt;p&gt;技术项目:&lt;/p&gt;
+&lt;p&gt;您可以将您在 MyEdMaster LLC 实习期间的用户营养摄入记录系统独立出来，作为 GitHub 上的一个开源项目，并提供代码链接和详细的项目文档。
+您可以基于您的技术栈（如 Django + React）开发一个小型的 Web 应用，例如一个简单的待办事项列表应用，并展示您的前端和后端开发能力。
+数据分析项目:&lt;/p&gt;
+&lt;p&gt;您可以基于您在杭州深绘智能科技有限公司实习期间的数据抓取和分析经验，选择一个公开数据集进行数据分析项目，并使用 Python 的 Pandas, NumPy, Matplotlib/Seaborn 进行数据处理和可视化，用 Scikit-learn 进行简单的建模。
+您可以从某个领域（例如电商、金融、社交媒体等）获取一些数据，进行探索性数据分析，并撰写分析报告作为博客文章。
+产品设计项目:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
